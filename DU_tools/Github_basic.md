@@ -36,9 +36,16 @@
 
 1. 进入仓库选择 watching，如图：
 
+![screen shot 2017-04-17 at 20 40 28](https://cloud.githubusercontent.com/assets/19412465/25091024/551156aa-23b9-11e7-9b31-287405f7ab3e.png)
+
 2. 进入 settting ->notification center，勾选 Participating 和 Watching 选项如图示：
 
+![screen shot 2017-04-17 at 20 39 59](https://cloud.githubusercontent.com/assets/19412465/25090999/2f3d8c82-23b9-11e7-8b31-080e3b4081e1.png)
+
 好，这下把所有通知导流到两种通道中: 一种是, 和自己紧密相关的 email 通知在邮箱里能保证收到; 而对于自己不那么紧要的通知, 能在 https://github.com/notifications 看到所有watching 仓库的动态。
+
+在Web端查看通知如下图:
+![screen shot 2017-04-17 at 21 06 43](https://cloud.githubusercontent.com/assets/19412465/25091027/5a54f7ca-23b9-11e7-8eb6-7db666aa05f5.png)
 
 ### 4. 进入部落仓库issue
 进入部落仓库后, 相当于来到一座大楼。但是部落日常提交卡片, 是在这座大楼的某个特定的办公室里。因此, 我们现在需要进入这个特定的办公室, 即部落仓库的issue。
@@ -61,7 +68,6 @@
 ![11](https://cloud.githubusercontent.com/assets/19412465/24989963/0820b1de-2043-11e7-9305-72fd73a71f42.png)
 
 参考资料
-
 [Managing notification delivery methods](https://help.github.com/articles/managing-notification-delivery-methods/)
 
 [Watching repositories](https://help.github.com/articles/watching-repositories)
