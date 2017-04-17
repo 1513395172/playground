@@ -36,11 +36,11 @@
 
 1. 进入仓库选择 watching，如图：
 
-![screen shot 2017-04-17 at 20 40 28](https://cloud.githubusercontent.com/assets/19412465/25091024/551156aa-23b9-11e7-9b31-287405f7ab3e.png)
+![screen shot 2017-04-17 at 20 39 59](https://cloud.githubusercontent.com/assets/19412465/25090999/2f3d8c82-23b9-11e7-8b31-080e3b4081e1.png)
 
 2. 进入 settting ->notification center，勾选 Participating 和 Watching 选项如图示：
 
-![screen shot 2017-04-17 at 20 39 59](https://cloud.githubusercontent.com/assets/19412465/25090999/2f3d8c82-23b9-11e7-8b31-080e3b4081e1.png)
+![screen shot 2017-04-17 at 20 40 28](https://cloud.githubusercontent.com/assets/19412465/25091024/551156aa-23b9-11e7-9b31-287405f7ab3e.png)
 
 好，这下把所有通知导流到两种通道中: 一种是, 和自己紧密相关的 email 通知在邮箱里能保证收到; 而对于自己不那么紧要的通知, 能在 https://github.com/notifications 看到所有watching 仓库的动态。
 
