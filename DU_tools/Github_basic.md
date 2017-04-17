@@ -40,9 +40,6 @@
 
 好，这下把所有通知导流到两种通道中: 一种是, 和自己紧密相关的 email 通知在邮箱里能保证收到; 而对于自己不那么紧要的通知, 能在 https://github.com/notifications 看到所有watching 仓库的动态。
 
-配置邮箱提醒成功界面如下图:
-![4](https://cloud.githubusercontent.com/assets/19412465/24986588/b0fe3eea-202d-11e7-9ca0-2f2cc1ecbe18.png)
-
 ### 4. 进入部落仓库issue
 进入部落仓库后, 相当于来到一座大楼。但是部落日常提交卡片, 是在这座大楼的某个特定的办公室里。因此, 我们现在需要进入这个特定的办公室, 即部落仓库的issue。
 
@@ -64,6 +61,7 @@
 ![11](https://cloud.githubusercontent.com/assets/19412465/24989963/0820b1de-2043-11e7-9305-72fd73a71f42.png)
 
 参考资料
+
 [Managing notification delivery methods](https://help.github.com/articles/managing-notification-delivery-methods/)
 
 [Watching repositories](https://help.github.com/articles/watching-repositories)
