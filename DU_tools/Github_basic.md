@@ -19,27 +19,29 @@
 
 ![2](https://cloud.githubusercontent.com/assets/19412465/24949376/f5f6b84e-1f9f-11e7-8184-921253833e34.png)
 
-### 2. 配置邮箱提醒
-配置邮箱提醒的目的是, 能够快速及时收到部落仓库提醒。这些提醒包括, 
-每月书单发布, 城市Meetup通知等。
+### 2. 进入部落仓库
 
-操作步骤为:用github id的邮箱和密码登录后,开始配置邮箱提醒。
-再来到Github/Settings/Notifications。勾选Automatically watch:勾选此项你会自动收到部落仓库的通知
+在注册和登录后, 就可以进入部落仓库了。那么, 如何快速进入部落仓库呢？
 
-配置邮箱提醒成功界面如下图:
-![4](https://cloud.githubusercontent.com/assets/19412465/24986588/b0fe3eea-202d-11e7-9ca0-2f2cc1ecbe18.png)
+操作步骤为:首先, 在github个人首页点击Profile,点击Orgnization,点击OpenMindClub,点击OpenMindWord开智部落, 进入部落仓库成功界面如下图:
 
-
-### 3. 进入部落仓库
-在登录和配置完邮箱提醒后, 就可以进入部落仓库了。那么, 如何快速进入部落仓库呢？
-
-操作步骤为:首先, 在github个人首页点击Profile,点击Orgnization,点击OpenMindClub,点击OpenMindWord开智部落
-
-进入部落仓库成功界面如下图:
 ![5](https://cloud.githubusercontent.com/assets/19412465/24989858/3ec4f994-2042-11e7-92ab-7d39872719d1.png)
 ![6](https://cloud.githubusercontent.com/assets/19412465/24989866/51ac2a78-2042-11e7-83d4-683da4f651dc.png)
 
+### 3. 配置邮箱提醒
 
+配置邮件提醒是往期部落成员曾经的烦恼。配置邮箱提醒的原本目的是, 部落成员能够快速及时收到部落仓库提醒。这些提醒包括, 每月书单发布, 城市Meetup通知等。
+
+然而, 如何保证收到足够通知的同时, 又不会被过多的邮件通知轰炸呢？这个秘诀就是, **watching 仓库，但 email 只接收 participating 的通知**。 详细操作步骤如下:
+
+1. 进入仓库选择 watching，如图：
+
+2. 进入 settting ->notification center，勾选 Participating 和 Watching 选项如图示：
+
+好，这下把所有通知导流到两种通道中: 一种是, 和自己紧密相关的 email 通知在邮箱里能保证收到; 而对于自己不那么紧要的通知, 能在 https://github.com/notifications 看到所有watching 仓库的动态。
+
+配置邮箱提醒成功界面如下图:
+![4](https://cloud.githubusercontent.com/assets/19412465/24986588/b0fe3eea-202d-11e7-9ca0-2f2cc1ecbe18.png)
 
 ### 4. 进入部落仓库issue
 进入部落仓库后, 相当于来到一座大楼。但是部落日常提交卡片, 是在这座大楼的某个特定的办公室里。因此, 我们现在需要进入这个特定的办公室, 即部落仓库的issue。
@@ -61,4 +63,9 @@
 ![10](https://cloud.githubusercontent.com/assets/19412465/24989960/05cdf158-2043-11e7-8b28-3c3151819f54.png)
 ![11](https://cloud.githubusercontent.com/assets/19412465/24989963/0820b1de-2043-11e7-9305-72fd73a71f42.png)
 
+参考资料
+[Managing notification delivery methods](https://help.github.com/articles/managing-notification-delivery-methods/)
 
+[Watching repositories](https://help.github.com/articles/watching-repositories)
+
+[About notifications](https://help.github.com/articles/about-notifications/)
