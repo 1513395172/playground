@@ -26,5 +26,9 @@ Resolving deltas: 100% (29/29), done.
 2. 本地查看 想要clone的仓库 的确已经存在在指定目录中
 3. 且想要clone的仓库 文件与Github仓库里文件确实一致
 
+
+### 参考
+http://blog.csdn.net/skysky01/article/details/51678692
+
 Timelog 
 实验+记录+发布 26mins
