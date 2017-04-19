@@ -1,6 +1,10 @@
 # Git clone Github的运程仓库(no push/pull)
 
 ### 目标
+Git clone Github的运程仓库(no push/pull)
+
+### 命令行
+`$ git clone git@github.com:zhangshiyinrunwithcc/playground.git`
 
 ### 前置步骤
 1. 采用SSH与Github交互方式
